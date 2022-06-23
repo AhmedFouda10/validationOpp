@@ -1,0 +1,11 @@
+{
+    "name": "ahmed/package",
+    "description": "validation library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Package\\": "src/"
+        }
+    },
+    "require": {}
+}
